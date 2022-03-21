@@ -1,5 +1,0 @@
-- 👋 Olá, eu sou Adriano Vicente
-- 🖥️ Atualmente trabalho com Back-End
-- 💻 A cada dia um novo aprendizado
-- 💰 Disponível para freelas
-- 📫 Vamos conversar ?
